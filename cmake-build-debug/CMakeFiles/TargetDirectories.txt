@@ -1,3 +1,0 @@
-/home/m.gorbushin/CLionProjects/mashgraph3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/m.gorbushin/CLionProjects/mashgraph3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/m.gorbushin/CLionProjects/mashgraph3/cmake-build-debug/CMakeFiles/mashgraph3.dir
