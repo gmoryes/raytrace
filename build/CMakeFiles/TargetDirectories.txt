@@ -1,3 +1,0 @@
-/home/m.gorbushin/shared/traceray/build/CMakeFiles/rebuild_cache.dir
-/home/m.gorbushin/shared/traceray/build/CMakeFiles/mashgraph3.dir
-/home/m.gorbushin/shared/traceray/build/CMakeFiles/edit_cache.dir
